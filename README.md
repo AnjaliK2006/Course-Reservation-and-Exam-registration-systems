@@ -61,7 +61,7 @@ Create detailed charts that…
 
 
 
-<img width="1258" height="913" alt="Screenshot 2026-05-19 144337" src="https://github.com/user-attachments/assets/6e9c3a1c-f450-41d6-ac7a-960292036eac" />
+<img width="1241" height="899" alt="image" src="https://github.com/user-attachments/assets/a413d2cd-b332-4e94-8628-34b034f986be" />
 
 
 
@@ -73,7 +73,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
-<img width="1008" height="699" alt="image" src="https://github.com/user-attachments/assets/640a946b-f056-45da-8532-23024d03ce22" />
+<img width="876" height="756" alt="image" src="https://github.com/user-attachments/assets/97bd7ef6-ad90-4e0d-914d-85ce383a231d" />
 
 
 
@@ -87,7 +87,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-<img width="964" height="576" alt="image" src="https://github.com/user-attachments/assets/39b99620-97df-4b37-867c-ca34f3c68816" />
+<img width="1253" height="921" alt="image" src="https://github.com/user-attachments/assets/dc5f4cf1-e07f-4051-a8b6-7d27b4062168" />
 
 
 
@@ -128,7 +128,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-<img width="974" height="826" alt="image" src="https://github.com/user-attachments/assets/2d50e01d-3795-479f-b396-25d8edce0ef1" />
+<img width="1261" height="909" alt="image" src="https://github.com/user-attachments/assets/2005ddce-8eb7-48f7-bd34-f298f4be5880" />
 
 
 
